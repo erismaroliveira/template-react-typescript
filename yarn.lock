@@ -1748,6 +1748,11 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
+"@types/ityped@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@types/ityped/-/ityped-1.0.0.tgz#dd99df707d5b9cb7f87861fd785fc45de853e950"
+  integrity sha512-z4vwxVT7jOF+z5Q1tIJ/AVU2drqBnpvT8ex59a5X8w7AsNg8wgymBRz9W15/iKe/RrNQ1kL0M4dGh7X5hBFhEQ==
+
 "@types/jest@*", "@types/jest@^26.0.15":
   version "26.0.22"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-26.0.22.tgz#8308a1debdf1b807aa47be2838acdcd91e88fbe6"
@@ -6372,6 +6377,11 @@ istanbul-reports@^3.0.2:
   dependencies:
     html-escaper "^2.0.0"
     istanbul-lib-report "^3.0.0"
+
+ityped@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ityped/-/ityped-1.0.3.tgz#78430ab45e4836f4e565ecbacd221e58d46b44b3"
+  integrity sha512-46Qnh3qs+6EJlWDHmvWRW6qiz5jFy2mkh9UvtTvQmLJMZIjKrdz4du68le7hLX4tAWCp6QTKiq/OuLv6huHxZg==
 
 jest-changed-files@^26.6.2:
   version "26.6.2"
